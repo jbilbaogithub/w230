@@ -1,0 +1,15 @@
+header{
+    background-color: #4169e1;
+    color: #ffffff;
+    text-align: center;
+    margin: 40px;
+}
+footer {
+    background-color: #4169e1;
+    color: #ffffff;
+    text-align: center;
+    margin: 40px;
+}
+a:link, a:visited, a:hover, a:active {
+    color:#ffffff;
+  }
