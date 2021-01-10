@@ -21,7 +21,7 @@ hr {
     text-align: center;
 }
 .imagen{
-    position: relative;
+    position: float;
     top:20px;
     right:-255px;
     width: 10%;
