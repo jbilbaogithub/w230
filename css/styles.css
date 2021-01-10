@@ -1,22 +1,35 @@
 header{
-    background-color: #4169e1;
+    background-color: #3b2a09;
     color: #ffffff;
     text-align: center;
     margin: 40px;
+    font-size: 20px;
+    width: 60%;
+    text-align: center;
 }
 footer {
-    background-color: #4169e1;
+    background-color: #3b2a09;
     color: #ffffff;
     text-align: center;
     margin: 40px;
+    width: 60%;
 }
-a:link, a:visited, a:hover, a:active {
-    color:#ffffff;
-  }
 
 
+hr {
+    width: 50%;
+    text-align: center;
+}
 .imagen{
     position: relative;
-    top:150px;
-    right:650px;
+    top:20px;
+    right:-255px;
+    width: 10%;
+    height: 10%;
+}
+
+.linkAssigment 
+{
+    color:#3b2a09;
+
 }
