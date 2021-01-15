@@ -1,0 +1,11 @@
+@media only screen and (min-width: 32.5em){
+    .divHeader h1{
+        font-size: 5.5em;
+     
+    }
+    
+    .divAssigments h2{
+        font-size: 3em;
+    }
+    
+    }

@@ -1,0 +1,87 @@
+body{
+    background-color: #ffffff;
+    font-family: 'Rubik', sans-serif;
+    font-size: 14px;
+    line-height: 1.5;
+
+}
+
+header, footer, main {
+    width: 60%;
+    margin: 0 auto;
+
+}
+
+
+.divHeader{
+    background-color:rgb(100,50,25);
+    color: #fff;
+    border-radius: 10px;
+    height: 200px;
+    text-align: center;
+    padding: 10px;
+}
+
+.divHeader img{
+    width: 30%;
+    float: right;
+}
+
+.divHeader h1{
+    font-size: 3.5em;
+ 
+}
+
+.divImg{
+    position: absolute;
+    top: 80px;
+    left: 950px;
+    float: left;
+}
+
+
+
+
+.divAssigments{
+    padding: 10px;
+}
+
+.divAssigments h2{
+    font-size: 2em;
+}
+
+.divAssigments div{
+    border-bottom: 1px solid darkblue;
+    width: 70%;
+}
+
+ /* unvisited link */
+ a:link {
+    color: #3b2a09;
+  }
+  
+  /* visited link */
+  a:visited {
+    color: #fff;
+  }
+  
+  /* mouse over link */
+  a:hover {
+    color: blue;
+  }
+  
+  /* selected link */
+  a:active {
+    color: blue;
+  } 
+
+
+.divFooter{
+    background-color:rgb(100,50,25);
+    color: #fff;
+    border-radius: 10px;
+    height: 100px;
+    text-align: center;
+    padding: 10px;
+}
+

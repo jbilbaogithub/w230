@@ -11,5 +11,5 @@ var final = day + "/" + month + "/" + year ;
 console.log("aca vamos");
 console.log(final);
 
-document.getElementById("fecha").innerText= final;
+//document.getElementById("fecha").innerText= final;
 
