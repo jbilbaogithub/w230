@@ -55,25 +55,22 @@ header, footer, main {
     width: 70%;
 }
 
- /* unvisited link */
- a:link {
-    color: #3b2a09;
+
+
+.Assigmentlink 
+{
+    color: #000;
+    font-family: 'Rubik', sans-serif;
+}
+
+
+.Assigmentlink a:link, a:visited {
+    color: #000;
   }
-  
-  /* visited link */
-  a:visited {
-    color: #fff;
-  }
-  
-  /* mouse over link */
-  a:hover {
+
+.Assigmentlink a:hover, a:active {
     color: blue;
-  }
-  
-  /* selected link */
-  a:active {
-    color: blue;
-  } 
+}
 
 
 .divFooter{
@@ -84,4 +81,5 @@ header, footer, main {
     text-align: center;
     padding: 10px;
 }
+
 
